@@ -1,0 +1,1 @@
+print("Push new script to Github")
