@@ -1,8 +1,7 @@
 # relearning
-A line I wrote on my local computer 
 
-This is from Rstudio. 
+The tutorial associated with this repo can be found here: https://happygitwithr.com/
 
-Also, the tutorial is found here: https://happygitwithr.com/
+While I attended a few workshops on GitHub while in grad school, I did not fullly utilize it for my dissertation thesis. 
 
-This is an edit from GitHub
+This repo is to relearn Git and GitHub as I will be using it quite a lot for my postdoc research. 
